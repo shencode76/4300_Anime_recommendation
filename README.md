@@ -34,5 +34,6 @@ To initiate our Anime Recommendation engine with the GUI to input anime preferen
 3. When the GUI window popped up, the user can input their preferred anime(s) into the input text box.
 4. Click the Get Recommendation button to acquire the recommendation results.
 5. The user should acquire no more than 5 recommended anime based on his/her input.
+    ![plot(./4300_Anime_recommendation/anime_recom_output.png)
     - If you have the "Sorry, there are no recommended animes for you. We will improve our system to find out your recommendation!" in the output box, it means that your preferred anime is not available in our database or our program did not find any recommended anime for your due to lack of data. 
 
